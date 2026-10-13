@@ -5,7 +5,7 @@ description: Ship an Unreal Engine 5 game to Android and iOS as a solo developer
 
 # Shipping Unreal Engine 5 to Android and iOS (solo dev, Windows + Mac mini, Claude agents)
 
-By Aleksandre Glonti · Nomad Devs (nomaddevs.club). MIT licence.
+By Alex Glonti · Nomad Devs (nomaddevs.club). MIT licence.
 
 Use this skill when one developer ships the same Unreal Engine 5 project to Google Play and the App Store, building Android on a Windows PC and iOS on a Mac mini, with Claude Code sessions on both machines.
 

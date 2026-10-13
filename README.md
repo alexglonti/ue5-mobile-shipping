@@ -4,7 +4,7 @@
 
 One developer, two computers, two stores. The Windows PC builds Android, the Mac mini builds iOS, and Claude Code sessions on both machines do the legwork while you keep the decisions. This skill is the playbook those agents follow: a numbered two-computer run-sheet (who does each step, what evidence proves it, what gate comes next), a pre-flight checklist, the exact build, verify and install commands, a merge-back procedure for the iOS branch, and a list of 37 mistakes we already made so your agents do not repeat them.
 
-By Aleksandre Glonti · Nomad Devs (nomaddevs.club)
+By Alex Glonti · Nomad Devs (nomaddevs.club)
 
 Status: **v0.1 — drafted from one real two-platform release (Oct 2026) and one merge-back; will be revised after the next release.**
 Tested on UE 5.8 (Launcher build). Items marked "verify" in the skill depend on your engine version.
@@ -85,4 +85,4 @@ Agents never do these. They prepare everything up to the screen and then touch n
 
 MIT. See `LICENSE`.
 
-By Aleksandre Glonti · Nomad Devs (nomaddevs.club)
+By Alex Glonti · Nomad Devs (nomaddevs.club)
