@@ -1,9 +1,9 @@
 ---
 name: ue5-mobile-shipping
-description: Ship an Unreal Engine 5 game to Android and iOS as a solo developer with a Windows build machine and a Mac mini, coordinated by Claude agents - build, verify, install, store features, Android-to-iOS hand-off, two-computer release run-sheet, pre-flight checklist and a list of traps already hit.
+description: Ship an Unreal Engine 5 game to Android and iOS as a small team (one or two people) with a Windows build machine and a Mac mini, coordinated by Claude agents - build, verify, install, store features, Android-to-iOS hand-off, two-computer release run-sheet, pre-flight checklist and a list of traps already hit.
 ---
 
-# Shipping Unreal Engine 5 to Android and iOS (solo dev, Windows + Mac mini, Claude agents)
+# Shipping Unreal Engine 5 to Android and iOS (small team, Windows + Mac mini, Claude agents)
 
 By Alex Glonti · Nomad Devs (nomaddevs.club). MIT licence.
 
